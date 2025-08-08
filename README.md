@@ -22,7 +22,7 @@ Upload your PDFs or text files, and simply speak your question – the bot will 
 - **Speech-to-Text (ASR):** [Whisper](https://github.com/openai/whisper)
 - **Text-to-Speech (TTS):** [Kokoro](https://github.com/hexgrad/kokoro)
 - **Document Processing & RAG:** LangChain + Vector Stores
-- **Backend Language:** Python
+- **Backend Language:** Python3.10
 
 ---
 
