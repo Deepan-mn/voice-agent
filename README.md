@@ -1,5 +1,4 @@
 # voice-agent
-Voice Assistant
 
 # 🎙️ Voice Agent – RAG + Voice Chatbot
 
